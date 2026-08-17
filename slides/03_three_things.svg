@@ -25,8 +25,8 @@
     <g id="p03-track-01">
         <rect x="340" y="162" width="780" height="130" fill="#EFEBE0" />
         <text x="368" y="200" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">定义一个岗位<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#2E7D32" dx="14">全部免费开源</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="236"><tspan>用 4C 定义 FDE，用 <tspan font-weight="bold" fill="#C4471F">729%</tspan> / <tspan font-weight="bold" fill="#C4471F">100+</tspan> / <tspan font-weight="bold" fill="#C4471F">$135K–325K</tspan> 证明它正在爆发，</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="266">再用 16 章白皮书 + 1,251 条信号库把它讲透。</text><rect x="1120" y="162" width="100" height="130" fill="#17140D" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="236"><tspan>用 4C 定义 FDE，用 <tspan font-weight="bold" fill="#C4471F">729%</tspan> / <tspan font-weight="bold" fill="#C4471F">100+</tspan> / <tspan font-weight="bold" fill="#C4471F">$135K–325K</tspan> 证明它正在爆发，</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="266">再用 16 章白皮书 + 1,251 条信号库把它讲透。</text><rect x="1120" y="162" width="100" height="130" fill="#17140D" />
         
   <g transform="translate(1148.0, 203.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">
     <path d="M19 4v16h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12" />
@@ -38,7 +38,7 @@
     <g id="p03-track-02">
         <rect x="340" y="335" width="780" height="130" fill="#EFEBE0" />
         <text x="368" y="373" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">卖一支队伍<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#C4471F" dx="14">这是收入来源</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="409">9 个行业 × 4 个场景 × 11 个案例，交付平台 + 4 个专家 Agent，</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="439"><tspan>服务从 <tspan font-weight="bold" fill="#C4471F">2000 元/月</tspan> 起步，到<tspan font-weight="bold" fill="#C4471F">按业务结果抽成</tspan>。</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="409">9 个行业 × 4 个场景 × 11 个案例，交付平台 + 4 个专家 Agent，</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="439"><tspan>服务从 <tspan font-weight="bold" fill="#C4471F">2000 元/月</tspan> 起步，到<tspan font-weight="bold" fill="#C4471F">按业务结果抽成</tspan>。</tspan>
         </text><rect x="1120" y="335" width="100" height="130" fill="#C4471F" />
         
   <g transform="translate(1148.0, 376.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">
@@ -51,7 +51,7 @@
     <g id="p03-track-03">
         <rect x="340" y="508" width="780" height="130" fill="#EFEBE0" />
         <text x="368" y="546" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">攒一个网络<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#B8552E" dx="14">这是未来</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="582">首批 20 人计划 + 100+ 合作公司 + 1000+ 专家 + 200㎡ 联合办公室；</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="612"><tspan>今天靠人驻场，明天靠 <tspan font-weight="bold" fill="#B8552E">FDE Agent</tspan> 驻场。</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="582">首批 20 人计划 + 100+ 合作公司 + 1000+ 专家 + 200㎡ 联合办公室；</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="368" y="612"><tspan>今天靠人驻场，明天靠 <tspan font-weight="bold" fill="#B8552E">FDE Agent</tspan> 驻场。</tspan>
         </text><rect x="1120" y="508" width="100" height="130" fill="#B8552E" />
         
   <g transform="translate(1148.0, 549.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">

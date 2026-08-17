@@ -29,7 +29,7 @@
     <path d="M15 12v-2" />
     <path d="M12 12v-1" />
   </g>
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="78" y="342">桌面助手与微信、</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="78" y="366">企微低侵入采集，</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="78" y="390">标注「专家时刻」。</text><line x1="78" y1="424" x2="261" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="78" y="342">桌面助手与微信、</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="78" y="366">企微低侵入采集，</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="78" y="390">标注「专家时刻」。</text><line x1="78" y1="424" x2="261" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
         <rect x="78" y="438" width="183" height="46" fill="#EFEBE0" />
         <text x="169" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" font-weight="bold" fill="#9A9284" letter-spacing="1">产出物</text>
         <text x="169" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17140D">专家时刻样本</text>
@@ -48,7 +48,7 @@
     <path d="M11.042 19.933a9.798 9.798 0 0 1 -3.342 -.933l-4.7 1l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c2.127 1.814 3.052 4.36 2.694 6.808" />
     <path d="M15 19l2 2l4 -4" />
   </g>
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="313" y="342">AI 主动访谈，逼出</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="313" y="366">专家自己都说不出</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="313" y="390">口的隐性判断。</text><line x1="313" y1="424" x2="496" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="313" y="342">AI 主动访谈，逼出</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="313" y="366">专家自己都说不出</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="313" y="390">口的隐性判断。</text><line x1="313" y1="424" x2="496" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
         <rect x="313" y="438" width="183" height="46" fill="#F6E7DD" />
         <text x="404" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" font-weight="bold" fill="#9A9284" letter-spacing="1">产出物</text>
         <text x="404" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#C4471F">访谈记录</text>
@@ -68,7 +68,7 @@
     <path d="M9 18h2" />
     <path d="M15 18l2 2l4 -4" />
   </g>
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="548" y="342">沉淀为结构化档案：</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="548" y="366">触发条件、信号、</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="548" y="390">动作、理由、例外。</text><line x1="548" y1="424" x2="731" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="548" y="342">沉淀为结构化档案：</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="548" y="366">触发条件、信号、</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="548" y="390">动作、理由、例外。</text><line x1="548" y1="424" x2="731" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
         <rect x="548" y="438" width="183" height="46" fill="#EFEBE0" />
         <text x="639" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" font-weight="bold" fill="#9A9284" letter-spacing="1">产出物</text>
         <text x="639" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17140D">专家判断档案</text>
@@ -87,7 +87,7 @@
     <path d="M17 8l4 4l-4 4" />
     <path d="M14 4l-4 16" />
   </g>
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="783" y="342">编译成可运行的智</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="783" y="366">能体，挂上渠道</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="783" y="390">直接上线。</text><line x1="783" y1="424" x2="966" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="783" y="342">编译成可运行的智</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="783" y="366">能体，挂上渠道</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="783" y="390">直接上线。</text><line x1="783" y1="424" x2="966" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
         <rect x="783" y="438" width="183" height="46" fill="#EFEBE0" />
         <text x="874" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" font-weight="bold" fill="#9A9284" letter-spacing="1">产出物</text>
         <text x="874" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17140D">可运行 Agent</text>
@@ -105,7 +105,7 @@
     <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
     <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
   </g>
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="1018" y="342">多维评估 + 反思式</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="1018" y="366">进化，只升不降，</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="1018" y="390">越跑越强。</text><line x1="1018" y1="424" x2="1202" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="1018" y="342">多维评估 + 反思式</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="1018" y="366">进化，只升不降，</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="1018" y="390">越跑越强。</text><line x1="1018" y1="424" x2="1202" y2="424" stroke="#ECE7DA" stroke-width="1" stroke-dasharray="4,4" />
         <rect x="1018" y="438" width="184" height="46" fill="#F6E7DD" />
         <text x="1110" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" font-weight="bold" fill="#9A9284" letter-spacing="1">产出物</text>
         <text x="1110" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#B8552E">评估分与新版本</text>
@@ -122,8 +122,8 @@
         <rect x="60" y="524" width="1160" height="124" fill="#EFEBE0" />
         <rect x="60" y="524" width="4" height="124" fill="#C4471F" />
         <text x="92" y="558" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">整条流水线的难点只在第 02 步</text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="92" y="596"><tspan>采集、构建、上线都是工程活；<tspan font-weight="bold" fill="#C4471F">「逼出说不出口的判断」才是真正稀缺的能力</tspan>——顶尖销售自己</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="92" y="628">也讲不清为什么这句话该这么说。这一步做不到，后面三步产出的就只是个普通话术机器人。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="92" y="596"><tspan>采集、构建、上线都是工程活；<tspan font-weight="bold" fill="#C4471F">「逼出说不出口的判断」才是真正稀缺的能力</tspan>——顶尖销售自己</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="92" y="628">也讲不清为什么这句话该这么说。这一步做不到，后面三步产出的就只是个普通话术机器人。</text></g>
 
     <g id="p20-footer">
         <line x1="60" y1="676" x2="1220" y2="676" stroke="#ECE7DA" stroke-width="1" />

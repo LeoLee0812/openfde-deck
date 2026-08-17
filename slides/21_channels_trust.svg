@@ -35,7 +35,7 @@
   </g>
         <text x="84" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17140D">数据归你</text>
         <line x1="84" y1="462" x2="314" y2="462" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="84" y="492">只读接入、传输加密、</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="84" y="518">严格隔离，随时可</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="84" y="544">撤回。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="84" y="492">只读接入、传输加密、</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="84" y="518">严格隔离，随时可</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="84" y="544">撤回。</text></g>
 
     <g id="p21-trust-brand">
         <rect x="354" y="342" width="278" height="230" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
@@ -49,7 +49,7 @@
   </g>
         <text x="378" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#C4471F">品牌归你</text>
         <line x1="378" y1="462" x2="608" y2="462" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="378" y="492">客户感受到的是「你</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="378" y="518">的 AI 员工」，Agent</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="378" y="544">可独立部署。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="378" y="492">客户感受到的是「你</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="378" y="518">的 AI 员工」，Agent</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="378" y="544">可独立部署。</text></g>
 
     <g id="p21-trust-redact">
         <rect x="648" y="342" width="278" height="230" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
@@ -62,7 +62,7 @@
   </g>
         <text x="672" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17140D">本地脱敏</text>
         <line x1="672" y1="462" x2="902" y2="462" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="672" y="492">敏感信息在本地就地</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="672" y="518">脱敏，原文不出你的</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="672" y="544">设备。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="672" y="492">敏感信息在本地就地</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="672" y="518">脱敏，原文不出你的</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="672" y="544">设备。</text></g>
 
     <g id="p21-trust-pattern">
         <rect x="942" y="342" width="278" height="230" fill="#FFFDF8" stroke="#C4471F" stroke-width="2" />
@@ -76,7 +76,7 @@
   </g>
         <text x="966" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#B8552E">只学模式，不学数据</text>
         <line x1="966" y1="462" x2="1196" y2="462" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="966" y="492">蒸馏的是判断模式而</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="966" y="518">非原始数据，金融 /</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="966" y="544">信创环境可适配。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="966" y="492">蒸馏的是判断模式而</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="966" y="518">非原始数据，金融 /</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="966" y="544">信创环境可适配。</text></g>
 
     <g id="p21-takeaway">
         <rect x="60" y="592" width="1160" height="56" fill="#F6E7DD" />

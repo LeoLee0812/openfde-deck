@@ -45,22 +45,22 @@
     </g>
 
     <g id="p13-reading">
-        <text x="680" y="196" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356" letter-spacing="2">八个维度，没有一项低于 0.75</text>
-        <line x1="680" y1="210" x2="1220" y2="210" stroke="#D4CDB9" stroke-width="1" />
+        <text x="756" y="196" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356" letter-spacing="2">八个维度，没有一项低于 0.75</text>
+        <line x1="756" y1="210" x2="1220" y2="210" stroke="#D4CDB9" stroke-width="1" />
         
-  <g transform="translate(680.0, 234.0) scale(1.8333333333333333)" fill="none" stroke="#C4471F" stroke-width="2">
+  <g transform="translate(756.0, 234.0) scale(1.8333333333333333)" fill="none" stroke="#C4471F" stroke-width="2">
     <path d="M12 3l9.5 7l-3.5 11h-12l-3.5 -11l9.5 -7" />
     <path d="M12 7.5l5.5 4l-2.5 5.5h-6.5l-2 -5.5l5.5 -4" />
     <path d="M2.5 10l9.5 3l9.5 -3" />
     <path d="M12 3v10l6 8" />
     <path d="M6 21l6 -8" />
   </g>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="330">单独会写代码的人很多，单独会客户沟通的人</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="362">也不少。但能在客户现场把 AI 系统从模糊需</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="394"><tspan>求推进到 production、<tspan font-weight="bold" fill="#17140D">用真实指标验证它真</tspan></tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="426"><tspan><tspan font-weight="bold" fill="#17140D">的有用</tspan>、再把现场经验产品化的人，<tspan font-weight="bold" fill="#C4471F">很少</tspan>。</tspan>
-        </text><line x1="680" y1="480" x2="1220" y2="480" stroke="#ECE7DA" stroke-width="1" />
-        <text x="680" y="516" font-family="Georgia, KaiTi, serif" font-size="20" font-weight="bold" fill="#17140D">怎么读这张图</text>
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="548">最高的两项（基础工程 0.95、AI 应用 0.90）说明</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="574"><tspan>它首先是个<tspan font-weight="bold" fill="#C4471F">工程岗</tspan>；客户 Discovery 0.88 紧随其</tspan>
-            </text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="600">后，说明它同时要能面客。最低的云 / 安全 0.75</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="680" y="626">是门槛，不是卖点。</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="756" y="330">单独会写代码的人很多，单独会客户沟通的人</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="756" y="362">也不少。但能在客户现场把 AI 系统从模糊需</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="756" y="394"><tspan>求推进到 production、<tspan font-weight="bold" fill="#17140D">用真实指标验证它真</tspan></tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="756" y="426"><tspan><tspan font-weight="bold" fill="#17140D">的有用</tspan>、再把现场经验产品化的人，<tspan font-weight="bold" fill="#C4471F">很少</tspan>。</tspan>
+        </text><line x1="756" y1="480" x2="1220" y2="480" stroke="#ECE7DA" stroke-width="1" />
+        <text x="756" y="516" font-family="Georgia, KaiTi, serif" font-size="20" font-weight="bold" fill="#17140D">怎么读这张图</text>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="756" y="548">最高的两项（基础工程 0.95、AI 应用 0.90）说明</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="756" y="574"><tspan>它首先是个<tspan font-weight="bold" fill="#C4471F">工程岗</tspan>；客户 Discovery 0.88 紧随其</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="756" y="600">后，说明它同时要能面客。最低的云 / 安全 0.75</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="756" y="626">是门槛，不是卖点。</text></g>
 
     <g id="p13-footer">
         <line x1="60" y1="676" x2="1220" y2="676" stroke="#ECE7DA" stroke-width="1" />

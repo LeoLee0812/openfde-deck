@@ -20,8 +20,8 @@
     <path d="M3 12l2 0" />
     <path d="M19 12l2 0" />
   </g>
-        <text font-weight="bold" font-size="26" font-family="Georgia, KaiTi, serif" fill="#17140D" x="60" y="312">点了三下，</text><text font-weight="bold" font-size="26" font-family="Georgia, KaiTi, serif" fill="#17140D" x="60" y="352">还没搞清</text><text font-weight="bold" font-size="26" font-family="Georgia, KaiTi, serif" fill="#17140D" x="60" y="392">它是干什么的？</text><line x1="60" y1="392" x2="380" y2="392" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" x="60" y="424">这不是你的问题。</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" x="60" y="448">它把两样东西塞进了</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" x="60" y="472">同一套导航里。</text><line x1="400" y1="176" x2="400" y2="556" stroke="#D4CDB9" stroke-width="1" />
+        <text font-weight="bold" font-family="Georgia, KaiTi, serif" fill="#17140D" font-size="26" x="60" y="312">点了三下，</text><text font-weight="bold" font-family="Georgia, KaiTi, serif" fill="#17140D" font-size="26" x="60" y="352">还没搞清</text><text font-weight="bold" font-family="Georgia, KaiTi, serif" fill="#17140D" font-size="26" x="60" y="392">它是干什么的？</text><line x1="60" y1="392" x2="380" y2="392" stroke="#D4CDB9" stroke-width="1" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" font-size="15" x="60" y="424">这不是你的问题。</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" font-size="15" x="60" y="448">它把两样东西塞进了</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#6A6356" font-size="15" x="60" y="472">同一套导航里。</text><line x1="400" y1="176" x2="400" y2="556" stroke="#D4CDB9" stroke-width="1" />
     </g>
 
     <g id="p02-evidence-01">
@@ -32,18 +32,18 @@
 
     <g id="p02-evidence-02">
         <text x="440" y="290" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#C4471F">02</text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="278">白皮书 16 章、信号库 1,251 条、11 个客户案例、</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="308">4 个 Agent、4 种服务——全部平铺，没有主次。</text><line x1="440" y1="320" x2="1220" y2="320" stroke="#ECE7DA" stroke-width="1" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="278">白皮书 16 章、信号库 1,251 条、11 个客户案例、</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="308">4 个 Agent、4 种服务——全部平铺，没有主次。</text><line x1="440" y1="320" x2="1220" y2="320" stroke="#ECE7DA" stroke-width="1" />
     </g>
 
     <g id="p02-evidence-03">
         <text x="440" y="378" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#C4471F">03</text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="366"><tspan>首页在讲「<tspan font-weight="bold" fill="#17140D">企业 AI 落地</tspan>」，白皮书在讲「<tspan font-weight="bold" fill="#17140D">怎么转型当 FDE</tspan>」</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="396">——两个完全不同的读者，共用一个首页。</text><line x1="440" y1="408" x2="1220" y2="408" stroke="#ECE7DA" stroke-width="1" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="366"><tspan>首页在讲「<tspan font-weight="bold" fill="#17140D">企业 AI 落地</tspan>」，白皮书在讲「<tspan font-weight="bold" fill="#17140D">怎么转型当 FDE</tspan>」</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="396">——两个完全不同的读者，共用一个首页。</text><line x1="440" y1="408" x2="1220" y2="408" stroke="#ECE7DA" stroke-width="1" />
     </g>
 
     <g id="p02-evidence-04">
         <text x="440" y="466" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#C4471F">04</text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="454">于是最基本的那个问题反而没答案：它到底是要</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="496" y="484"><tspan><tspan font-weight="bold" fill="#C4471F">卖你东西</tspan>，还是要<tspan font-weight="bold" fill="#C4471F">教你东西</tspan>？</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="454">于是最基本的那个问题反而没答案：它到底是要</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="496" y="484"><tspan><tspan font-weight="bold" fill="#C4471F">卖你东西</tspan>，还是要<tspan font-weight="bold" fill="#C4471F">教你东西</tspan>？</tspan>
         </text></g>
 
     <g id="p02-takeaway">

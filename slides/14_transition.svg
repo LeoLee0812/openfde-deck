@@ -21,7 +21,7 @@
     <g id="p14-hero">
         <text x="60" y="466" font-family="Georgia, KaiTi, serif" font-size="60" font-weight="bold" fill="#17140D">讲完岗位，说钱</text>
         <line x1="60" y1="504" x2="1220" y2="504" stroke="#17140D" stroke-width="2" />
-        <text font-weight="600" font-size="26" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="60" y="552">前面在免费讲一个岗位；从这一页开始，它在卖一支队伍。</text><text font-weight="600" font-size="26" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="60" y="594"><tspan>核心承诺先说：<tspan fill="#C4471F">不卖人天，不卖标准软件，收入和你的结果绑在一起。</tspan></tspan>
+        <text font-weight="600" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="26" x="60" y="552">前面在免费讲一个岗位；从这一页开始，它在卖一支队伍。</text><text font-weight="600" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="26" x="60" y="594"><tspan>核心承诺先说：<tspan fill="#C4471F">不卖人天，不卖标准软件，收入和你的结果绑在一起。</tspan></tspan>
         </text></g>
 
     <g id="p14-footer">

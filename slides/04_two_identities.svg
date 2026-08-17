@@ -26,10 +26,10 @@
         <text x="108" y="330" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">开源社区</text>
         <text x="108" y="356" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356">FDE 知识基础设施</text>
         <line x1="108" y1="374" x2="414" y2="374" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="108" y="406"><tspan>白皮书 <tspan font-weight="bold" fill="#17140D">16 章</tspan></tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="108" y="436"><tspan>信号库 <tspan font-weight="bold" fill="#17140D">1,251 条</tspan>一手资料</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="108" y="466">工具地图 · 博客 · 社区宣言</text><rect x="108" y="492" width="306" height="62" fill="#EFEBE0" />
-        <text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="120" y="516">/docs  /research  /tool-map</text><text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="120" y="538">/blog  /manifesto  /contribute</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="108" y="406"><tspan>白皮书 <tspan font-weight="bold" fill="#17140D">16 章</tspan></tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="108" y="436"><tspan>信号库 <tspan font-weight="bold" fill="#17140D">1,251 条</tspan>一手资料</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="108" y="466">工具地图 · 博客 · 社区宣言</text><rect x="108" y="492" width="306" height="62" fill="#EFEBE0" />
+        <text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="120" y="516">/docs  /research  /tool-map</text><text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="120" y="538">/blog  /manifesto  /contribute</text></g>
 
     <g id="p04-module-business">
         <rect x="462" y="222" width="354" height="354" fill="#F7F5EF" stroke="#E2DCCD" stroke-width="1" />
@@ -47,11 +47,11 @@
         <text x="486" y="330" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">商业公司</text>
         <text x="486" y="356" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356">企业 AI 落地交付</text>
         <line x1="486" y1="374" x2="792" y2="374" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="486" y="406"><tspan><tspan font-weight="bold" fill="#C4471F">9</tspan> 个行业 + <tspan font-weight="bold" fill="#C4471F">4</tspan> 个场景方案</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="486" y="436"><tspan><tspan font-weight="bold" fill="#C4471F">11</tspan> 个客户案例与品牌墙</tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="486" y="466"><tspan>交付平台 + <tspan font-weight="bold" fill="#C4471F">4</tspan> 个专家 Agent</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="486" y="406"><tspan><tspan font-weight="bold" fill="#C4471F">9</tspan> 个行业 + <tspan font-weight="bold" fill="#C4471F">4</tspan> 个场景方案</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="486" y="436"><tspan><tspan font-weight="bold" fill="#C4471F">11</tspan> 个客户案例与品牌墙</tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="486" y="466"><tspan>交付平台 + <tspan font-weight="bold" fill="#C4471F">4</tspan> 个专家 Agent</tspan>
         </text><rect x="486" y="492" width="306" height="62" fill="#F6E7DD" />
-        <text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="498" y="516">/solutions  /cases  /products</text><text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="498" y="538">/services  /hirefde</text></g>
+        <text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="498" y="516">/solutions  /cases  /products</text><text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="498" y="538">/services  /hirefde</text></g>
 
     <g id="p04-module-network">
         <rect x="840" y="222" width="354" height="354" fill="#F7F5EF" stroke="#E2DCCD" stroke-width="1" />
@@ -68,10 +68,10 @@
         <text x="864" y="330" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">人才网络</text>
         <text x="864" y="356" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356">把上面两块连起来</text>
         <line x1="864" y1="374" x2="1170" y2="374" stroke="#D4CDB9" stroke-width="1" />
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="864" y="406"><tspan>首批 FDE <tspan font-weight="bold" fill="#B8552E">20 人计划</tspan></tspan>
-            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="864" y="436">FDE 社群与线下活动</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="864" y="466"><tspan><tspan font-weight="bold" fill="#B8552E">200㎡</tspan> 联合办公室</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="864" y="406"><tspan>首批 FDE <tspan font-weight="bold" fill="#B8552E">20 人计划</tspan></tspan>
+            </text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="864" y="436">FDE 社群与线下活动</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="864" y="466"><tspan><tspan font-weight="bold" fill="#B8552E">200㎡</tspan> 联合办公室</tspan>
         </text><rect x="864" y="492" width="306" height="62" fill="#EFEBE0" />
-        <text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="876" y="516">/join  /community</text><text font-size="13" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" x="876" y="538">github.com/Open-FDE</text></g>
+        <text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="876" y="516">/join  /community</text><text font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#6A6356" font-size="13" x="876" y="538">github.com/Open-FDE</text></g>
 
     <g id="p04-takeaway">
         <text x="60" y="640" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" fill="#2F2B20">左边这块<tspan font-weight="bold" fill="#17140D">不要钱</tspan>，中间这块<tspan font-weight="bold" fill="#C4471F">是生意</tspan>，右边这块<tspan font-weight="bold" fill="#B8552E">是未来的供给</tspan>——认清你在看哪一块，路就不绕了。</text>

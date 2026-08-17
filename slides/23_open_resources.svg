@@ -39,13 +39,13 @@
         <circle cx="110" cy="440" r="24" fill="#C4471F" />
         <text x="110" y="447" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="15" font-weight="bold" fill="#F7F5EF">04</text>
         <text x="152" y="436" font-family="Georgia, KaiTi, serif" font-size="22" font-weight="bold" fill="#17140D">落地实战<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="normal" fill="#C4471F" dx="10">6 章 · 分量最重</tspan></text>
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="152" y="462">10 步工作流闭环 · FDE 实战白皮书 · 能力模型（8 维）</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="152" y="488">技术栈全景 · 90 天学习路线 · 面试准备（六类题）</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="152" y="462">10 步工作流闭环 · FDE 实战白皮书 · 能力模型（8 维）</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="152" y="488">技术栈全景 · 90 天学习路线 · 面试准备（六类题）</text></g>
 
     <g id="p23-group-org">
         <circle cx="110" cy="546" r="22" fill="#FFFDF8" stroke="#C4471F" stroke-width="3" />
         <text x="110" y="553" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="15" font-weight="bold" fill="#C4471F">05</text>
         <text x="152" y="542" font-family="Georgia, KaiTi, serif" font-size="22" font-weight="bold" fill="#17140D">组织与洞察<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="normal" fill="#9A9284" dx="10">4 章 · 管理者视角</tspan></text>
-        <text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="152" y="568">组织与商业模式 · FDE 对各岗位的价值</text><text font-size="17" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="152" y="594">FDE 与 Agent 时代 · 资料地图</text></g>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="152" y="568">组织与商业模式 · FDE 对各岗位的价值</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="17" x="152" y="594">FDE 与 Agent 时代 · 资料地图</text></g>
 
     <g id="p23-signal-library">
         <rect x="850" y="180" width="370" height="420" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
@@ -65,7 +65,7 @@
         <text x="874" y="442" font-family="Georgia, KaiTi, serif" font-size="48" font-weight="bold" fill="#C4471F">1,251</text>
         <text x="1032" y="442" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17140D">条去重保留</text>
         <line x1="874" y1="464" x2="1196" y2="464" stroke="#ECE7DA" stroke-width="1" />
-        <text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="874" y="494">官方岗位描述、公司公告、媒体报道、</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="874" y="518">VC 分析、开源项目、播客与社区讨论，</text><text font-size="15" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="874" y="542">覆盖 13 个领域标签。</text><rect x="874" y="552" width="322" height="30" fill="#F6E7DD" />
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="874" y="494">官方岗位描述、公司公告、媒体报道、</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="874" y="518">VC 分析、开源项目、播客与社区讨论，</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="874" y="542">覆盖 13 个领域标签。</text><rect x="874" y="552" width="322" height="30" fill="#F6E7DD" />
         <text x="886" y="572" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#C4471F">区分「已核实」与「仅检索命中」</text>
     </g>
 

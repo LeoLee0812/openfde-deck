@@ -33,7 +33,7 @@
   aside{flex:0 0 190px;overflow-y:auto;border-right:1px solid var(--rule);background:var(--paper2);padding:10px}
   aside.hidden{display:none}
   .thumb{display:block;width:100%;margin-bottom:10px;cursor:pointer;border:1px solid var(--line);background:var(--surface);position:relative;line-height:0}
-  .thumb img{display:block;width:100%;height:auto}
+  .thumb img{display:block;width:100%;height:auto;aspect-ratio:16/9;background:var(--paper)}
   .thumb.active{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-soft)}
   .thumb .no{position:absolute;left:0;top:0;background:var(--ink);color:var(--paper);font-size:10px;padding:1px 5px;font-family:var(--serif);line-height:1.4}
 
@@ -138,7 +138,7 @@
     var active = thumbs.children[i];
     if(active) active.scrollIntoView({block:'nearest'});
     history.replaceState(null, '', '#p' + (i + 1));
-    document.title = s.title + '｜看懂 openfde.net';
+    document.title = (i === 0 ? s.title : s.title + '｜看懂 openfde.net');
   }
 
   document.getElementById('prev').addEventListener('click', function(){ go(i - 1); });

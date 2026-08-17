@@ -26,7 +26,7 @@
     <path d="M4 7h3a1 1 0 0 0 1 -1v-1a2 2 0 0 1 4 0v1a1 1 0 0 0 1 1h3a1 1 0 0 1 1 1v3a1 1 0 0 0 1 1h1a2 2 0 0 1 0 4h-1a1 1 0 0 0 -1 1v3a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-1a2 2 0 0 0 -4 0v1a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1h1a2 2 0 0 0 0 -4h-1a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1" />
   </g>
         <text x="238" y="252" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">落地鸿沟<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" fill="#6A6356" dx="16">Demo 很快，Production 很难</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="288">企业数据散落在 CRM、ERP、数仓、票据、邮件、权限系统里；真正的 ROI 来自</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="318"><tspan><tspan font-weight="bold" fill="#17140D">流程重构</tspan>，而不是单点模型调用。FDE 补上从 demo 到 production 的缺口。</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="288">企业数据散落在 CRM、ERP、数仓、票据、邮件、权限系统里；真正的 ROI 来自</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="318"><tspan><tspan font-weight="bold" fill="#17140D">流程重构</tspan>，而不是单点模型调用。FDE 补上从 demo 到 production 的缺口。</tspan>
         </text></g>
 
     <g id="p10-reason-org">
@@ -45,7 +45,7 @@
     <path d="M9 18l0 .01" />
   </g>
         <text x="238" y="392" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">组织化<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" fill="#6A6356" dx="16">模型公司在重新拥抱深度部署</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="428">OpenAI 成立部署公司并收购 Tomoro，Anthropic 联合 Blackstone 成立企业 AI</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="458"><tspan>服务公司——<tspan font-weight="bold" fill="#C4471F">「API + 深度部署 + 产品反馈」</tspan>正在成为新的商业化范式。</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="428">OpenAI 成立部署公司并收购 Tomoro，Anthropic 联合 Blackstone 成立企业 AI</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="458"><tspan>服务公司——<tspan font-weight="bold" fill="#C4471F">「API + 深度部署 + 产品反馈」</tspan>正在成为新的商业化范式。</tspan>
         </text></g>
 
     <g id="p10-reason-agent">
@@ -66,7 +66,7 @@
     <path d="M14 8v.01" />
   </g>
         <text x="238" y="532" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">Agent 时代<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" fill="#6A6356" dx="16">没有现成产品，只能从现场长出来</tspan></text>
-        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="568">Agent 要执行动作、要接权限与审批、是非确定性的、会改变工作流。产品探索</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="238" y="598"><tspan>只能在企业内部完成——<tspan font-weight="bold" fill="#B8552E">这正是 FDE 的主场</tspan>。</tspan>
+        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="568">Agent 要执行动作、要接权限与审批、是非确定性的、会改变工作流。产品探索</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="20" x="238" y="598"><tspan>只能在企业内部完成——<tspan font-weight="bold" fill="#B8552E">这正是 FDE 的主场</tspan>。</tspan>
         </text></g>
 
     <g id="p10-footer">

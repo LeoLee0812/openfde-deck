@@ -25,7 +25,7 @@
 
     <g id="cover-standfirst">
         <line x1="60" y1="404" x2="700" y2="404" stroke="#D4CDB9" stroke-width="1" />
-        <text font-weight="600" font-size="26" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="60" y="446">六个导航、十六章白皮书、一千两百多条资料——</text><text font-weight="600" font-size="26" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="60" y="486">26 页讲完它到底在干什么，以及你该点哪里。</text></g>
+        <text font-weight="600" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="26" x="60" y="446">六个导航、十六章白皮书、一千两百多条资料——</text><text font-weight="600" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="26" x="60" y="486">26 页讲完它到底在干什么，以及你该点哪里。</text></g>
 
     <g id="cover-meta">
         <text x="60" y="556" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#6A6356">素材逆向自站点源码仓库 OpenFDEAI/OpenFDE-WEB（提交 8fa397d）</text>
