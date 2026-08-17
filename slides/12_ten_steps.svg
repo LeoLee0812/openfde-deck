@@ -12,10 +12,10 @@
     </g>
 
     <g id="p12-ribbon">
-        <path d="M 200 230 H 1020 A 85 85 0 0 1 1020 400 H 200 A 80 80 0 0 0 200 560 H 1080" fill="none" stroke="#E2DCCD" stroke-width="22" stroke-linecap="round" />
-        <path d="M 200 230 H 1020 A 85 85 0 0 1 1020 400 H 200 A 80 80 0 0 0 200 560 H 1080" fill="none" stroke="#C4471F" stroke-width="2" stroke-dasharray="6,8" stroke-opacity="0.5" />
-        <polygon points="1100,560 1080,551 1080,569" fill="#C4471F" />
-        <text x="1106" y="588" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#C4471F">回到 01</text>
+        <path d="M 200 254 H 1020 A 80 80 0 0 1 1020 414 H 200 A 70 70 0 0 0 200 554 H 1080" fill="none" stroke="#E2DCCD" stroke-width="22" stroke-linecap="round" />
+        <path d="M 200 254 H 1020 A 80 80 0 0 1 1020 414 H 200 A 70 70 0 0 0 200 554 H 1080" fill="none" stroke="#C4471F" stroke-width="2" stroke-dasharray="6,8" stroke-opacity="0.5" />
+        <polygon points="1100,554 1080,545 1080,563" fill="#C4471F" />
+        <text x="1106" y="582" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#C4471F">回到 01</text>
     </g>
 
     <g id="p12-row-top">
@@ -41,67 +41,67 @@
     </g>
 
     <g id="p12-row-mid">
-        <rect x="627" y="430" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="627" y="430" width="240" height="4" fill="#C4471F" />
-        <text x="747" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Prototype 快速原型</text>
-        <text x="747" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">常是全栈，验需求、成本与延迟</text>
+        <rect x="627" y="452" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="627" y="452" width="240" height="4" fill="#C4471F" />
+        <text x="747" y="478" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Prototype 快速原型</text>
+        <text x="747" y="498" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">常是全栈，验需求、成本与延迟</text>
 
-        <rect x="353" y="430" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="353" y="430" width="240" height="4" fill="#C4471F" />
-        <text x="473" y="456" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Eval 评估体系</text>
-        <text x="473" y="476" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">golden set + 离线在线评估 + 人工复核</text>
+        <rect x="353" y="452" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="353" y="452" width="240" height="4" fill="#C4471F" />
+        <text x="473" y="478" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Eval 评估体系</text>
+        <text x="473" y="498" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">golden set + 离线在线评估 + 人工复核</text>
     </g>
 
     <g id="p12-loop-note">
-        <rect x="890" y="424" width="330" height="106" fill="#F6E7DD" />
-        <rect x="890" y="424" width="4" height="106" fill="#C4471F" />
-        <text x="912" y="454" font-family="Georgia, KaiTi, serif" font-size="20" font-weight="bold" fill="#17140D">它为什么是「闭环」</text>
-        <text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="912" y="482">第 9 步的沉淀让下一个客户更快落地：</text><text font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" font-size="15" x="912" y="506"><tspan>同行业第二家，交付人天 <tspan font-weight="bold" fill="#C4471F">20 → 10</tspan>。</tspan>
+        <rect x="890" y="436" width="330" height="106" fill="#F6E7DD" />
+        <rect x="890" y="436" width="4" height="106" fill="#C4471F" />
+        <text x="912" y="466" font-family="Georgia, KaiTi, serif" font-size="20" font-weight="bold" fill="#17140D">它为什么是「闭环」</text>
+        <text font-size="15" fill="#2F2B20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" x="912" y="494">第 9 步的沉淀让下一个客户更快落地：</text><text font-size="15" fill="#2F2B20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" x="912" y="518"><tspan>同行业第二家，交付人天 <tspan font-weight="bold" fill="#C4471F">20 → 10</tspan>。</tspan>
         </text></g>
 
     <g id="p12-row-bottom">
-        <rect x="80" y="598" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="80" y="598" width="240" height="4" fill="#B8552E" />
-        <text x="200" y="624" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Productionization</text>
-        <text x="200" y="644" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">鉴权、审计、合规、SLA、成本与响应</text>
+        <rect x="80" y="588" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="80" y="588" width="240" height="4" fill="#B8552E" />
+        <text x="200" y="614" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Productionization</text>
+        <text x="200" y="634" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">鉴权、审计、合规、SLA、成本与响应</text>
 
-        <rect x="353" y="598" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="353" y="598" width="240" height="4" fill="#B8552E" />
-        <text x="473" y="624" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Adoption 用户采用</text>
-        <text x="473" y="644" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">上线不等于价值：试点、培训、复盘</text>
+        <rect x="353" y="588" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="353" y="588" width="240" height="4" fill="#B8552E" />
+        <text x="473" y="614" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Adoption 用户采用</text>
+        <text x="473" y="634" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">上线不等于价值：试点、培训、复盘</text>
 
-        <rect x="627" y="598" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="627" y="598" width="240" height="4" fill="#B8552E" />
-        <text x="747" y="624" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Generalization 沉淀</text>
-        <text x="747" y="644" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">变连接器、模板、eval harness、playbook</text>
+        <rect x="627" y="588" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="627" y="588" width="240" height="4" fill="#B8552E" />
+        <text x="747" y="614" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Generalization 沉淀</text>
+        <text x="747" y="634" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">变连接器、模板、eval harness、playbook</text>
 
-        <rect x="900" y="598" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
-        <rect x="900" y="598" width="240" height="4" fill="#B8552E" />
-        <text x="1020" y="624" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Commercial 扩展</text>
-        <text x="1020" y="644" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">同客户扩科、同行业复制、打包方案</text>
+        <rect x="900" y="588" width="240" height="54" fill="#FFFDF8" stroke="#E2DCCD" stroke-width="1" />
+        <rect x="900" y="588" width="240" height="4" fill="#B8552E" />
+        <text x="1020" y="614" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17140D">Commercial 扩展</text>
+        <text x="1020" y="634" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">同客户扩科、同行业复制、打包方案</text>
     </g>
 
     <g id="p12-nodes">
-        <circle cx="200" cy="230" r="30" fill="#17140D" />
-        <text x="200" y="238" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">01</text>
-        <circle cx="473" cy="230" r="30" fill="#17140D" />
-        <text x="473" y="238" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">02</text>
-        <circle cx="747" cy="230" r="30" fill="#17140D" />
-        <text x="747" y="238" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">03</text>
-        <circle cx="1020" cy="230" r="30" fill="#17140D" />
-        <text x="1020" y="238" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">04</text>
-        <circle cx="747" cy="400" r="30" fill="#C4471F" />
-        <text x="747" y="408" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">05</text>
-        <circle cx="473" cy="400" r="30" fill="#C4471F" />
-        <text x="473" y="408" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">06</text>
-        <circle cx="200" cy="560" r="30" fill="#B8552E" />
-        <text x="200" y="568" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">07</text>
-        <circle cx="473" cy="560" r="30" fill="#B8552E" />
-        <text x="473" y="568" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">08</text>
-        <circle cx="747" cy="560" r="30" fill="#B8552E" />
-        <text x="747" y="568" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">09</text>
-        <circle cx="1020" cy="560" r="30" fill="#B8552E" />
-        <text x="1020" y="568" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">10</text>
+        <circle cx="200" cy="254" r="30" fill="#17140D" />
+        <text x="200" y="262" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">01</text>
+        <circle cx="473" cy="254" r="30" fill="#17140D" />
+        <text x="473" y="262" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">02</text>
+        <circle cx="747" cy="254" r="30" fill="#17140D" />
+        <text x="747" y="262" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">03</text>
+        <circle cx="1020" cy="254" r="30" fill="#17140D" />
+        <text x="1020" y="262" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">04</text>
+        <circle cx="747" cy="414" r="30" fill="#C4471F" />
+        <text x="747" y="422" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">05</text>
+        <circle cx="473" cy="414" r="30" fill="#C4471F" />
+        <text x="473" y="422" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">06</text>
+        <circle cx="200" cy="554" r="30" fill="#B8552E" />
+        <text x="200" y="562" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">07</text>
+        <circle cx="473" cy="554" r="30" fill="#B8552E" />
+        <text x="473" y="562" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">08</text>
+        <circle cx="747" cy="554" r="30" fill="#B8552E" />
+        <text x="747" y="562" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">09</text>
+        <circle cx="1020" cy="554" r="30" fill="#B8552E" />
+        <text x="1020" y="562" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="18" font-weight="bold" fill="#F7F5EF">10</text>
     </g>
 
     <g id="p12-footer">
