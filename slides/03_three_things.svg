@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+    <g id="bg">
+        <rect x="0" y="0" width="1280" height="720" fill="#F7F5EF" />
+    </g>
+
+    <g id="p03-header">
+        <text x="640" y="62" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6A6356" letter-spacing="4">结论先给</text>
+        <text x="640" y="106" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="34" font-weight="bold" fill="#17140D">一页看懂：它只干三件事</text>
+        <line x1="340" y1="128" x2="940" y2="128" stroke="#C4471F" stroke-width="2" />
+    </g>
+
+    <g id="p03-fan">
+        <path d="M 12.20 260.53 L 23.53 130.98 A 270 270 0 0 1 233.83 265.00 L 121.24 330.00 A 140 140 0 0 0 12.20 260.53 Z" fill="#17140D" />
+        <text x="110" y="238" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="38" font-weight="bold" fill="#F7F5EF">01</text>
+        <path d="M 124.74 336.44 L 240.57 277.42 A 270 270 0 0 1 240.57 522.58 L 124.74 463.56 A 140 140 0 0 0 124.74 336.44 Z" fill="#C4471F" />
+        <text x="205" y="412" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="38" font-weight="bold" fill="#F7F5EF">02</text>
+        <path d="M 121.24 470.00 L 233.83 535.00 A 270 270 0 0 1 23.53 669.02 L 12.20 539.47 A 140 140 0 0 0 121.24 470.00 Z" fill="#B8552E" />
+        <text x="110" y="584" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="38" font-weight="bold" fill="#F7F5EF">03</text>
+        <path d="M 0 290 A 110 110 0 0 1 0 510 Z" fill="#EFEBE0" />
+        <text x="52" y="386" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="22" font-weight="bold" fill="#17140D">openfde</text>
+        <text x="52" y="414" text-anchor="middle" font-family="Georgia, KaiTi, serif" font-size="22" font-weight="bold" fill="#17140D">.net</text>
+        <text x="52" y="444" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6A6356">三件事</text>
+    </g>
+
+    <g id="p03-track-01">
+        <rect x="340" y="162" width="780" height="130" fill="#EFEBE0" />
+        <text x="368" y="200" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">定义一个岗位<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#2E7D32" dx="14">全部免费开源</tspan></text>
+        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="236"><tspan>用 4C 定义 FDE，用 <tspan font-weight="bold" fill="#C4471F">729%</tspan> / <tspan font-weight="bold" fill="#C4471F">100+</tspan> / <tspan font-weight="bold" fill="#C4471F">$135K–325K</tspan> 证明它正在爆发，</tspan>
+            </text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="266">再用 16 章白皮书 + 1,251 条信号库把它讲透。</text><rect x="1120" y="162" width="100" height="130" fill="#17140D" />
+        
+  <g transform="translate(1148.0, 203.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">
+    <path d="M19 4v16h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12" />
+    <path d="M19 16h-12a2 2 0 0 0 -2 2" />
+    <path d="M9 8h6" />
+  </g>
+    </g>
+
+    <g id="p03-track-02">
+        <rect x="340" y="335" width="780" height="130" fill="#EFEBE0" />
+        <text x="368" y="373" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">卖一支队伍<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#C4471F" dx="14">这是收入来源</tspan></text>
+        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="409">9 个行业 × 4 个场景 × 11 个案例，交付平台 + 4 个专家 Agent，</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="439"><tspan>服务从 <tspan font-weight="bold" fill="#C4471F">2000 元/月</tspan> 起步，到<tspan font-weight="bold" fill="#C4471F">按业务结果抽成</tspan>。</tspan>
+        </text><rect x="1120" y="335" width="100" height="130" fill="#C4471F" />
+        
+  <g transform="translate(1148.0, 376.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">
+    <path d="M11.5 21h-2.926a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304h11.339a2 2 0 0 1 1.977 2.304l-.5 3.248" />
+    <path d="M9 11v-5a3 3 0 0 1 6 0v5" />
+    <path d="M15 19l2 2l4 -4" />
+  </g>
+    </g>
+
+    <g id="p03-track-03">
+        <rect x="340" y="508" width="780" height="130" fill="#EFEBE0" />
+        <text x="368" y="546" font-family="Georgia, KaiTi, serif" font-size="26" font-weight="bold" fill="#17140D">攒一个网络<tspan font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#B8552E" dx="14">这是未来</tspan></text>
+        <text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="582">首批 20 人计划 + 100+ 合作公司 + 1000+ 专家 + 200㎡ 联合办公室；</text><text font-size="20" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" fill="#2F2B20" x="368" y="612"><tspan>今天靠人驻场，明天靠 <tspan font-weight="bold" fill="#B8552E">FDE Agent</tspan> 驻场。</tspan>
+        </text><rect x="1120" y="508" width="100" height="130" fill="#B8552E" />
+        
+  <g transform="translate(1148.0, 549.0) scale(1.8333333333333333)" fill="none" stroke="#F7F5EF" stroke-width="2">
+    <path d="M10 13a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M8 21v-1a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v1" />
+    <path d="M15 5a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M17 10h2a2 2 0 0 1 2 2v1" />
+    <path d="M5 5a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M3 13v-1a2 2 0 0 1 2 -2h2" />
+  </g>
+    </g>
+
+    <g id="p03-footer">
+        <line x1="60" y1="676" x2="1220" y2="676" stroke="#ECE7DA" stroke-width="1" />
+        <text x="340" y="699" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#9A9284">其余所有页面，都是这三件事的展开</text>
+        <text x="1220" y="699" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#9A9284">03 / 26</text>
+    </g>
+</svg>
